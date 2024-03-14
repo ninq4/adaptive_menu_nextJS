@@ -1,0 +1,1 @@
+# adaptive_menu_nextJS
